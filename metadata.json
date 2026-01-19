@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of ProInvoice AI(WORKING)",
+  "description": "A professional invoice management system featuring AI-powered item extraction and custom branding options.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
